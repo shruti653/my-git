@@ -1,2 +1,1 @@
-"This is practice project"
-"This update adds details about a new feature."
+"My Git Practice Project."
