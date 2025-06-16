@@ -1,1 +1,1 @@
-"My Git Practice Project."
+"# Awesome My Git Practice Project."
